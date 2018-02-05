@@ -2,6 +2,11 @@
 Screen single stocks and ETFs traded on NYSE and NASDAQ, including both equity and mortgage types
 https://public.tableau.com/profile/yue5429#!/vizhome/REITComp/REITComp
 
+## Pending Items
+- Streamline
+- Auto Refresh Data Source
+- Auto Refresh Visualization
+
 ## Aspects Considered
 The screen compares:
 - absolute annual divident yield
