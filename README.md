@@ -1,5 +1,6 @@
 # REITScreen
 Screen single stocks and ETFs traded on NYSE and NASDAQ, including both equity and mortgage types
+https://public.tableau.com/profile/yue5429#!/vizhome/REITComp/REITComp
 
 ## Aspects Considered
 The screen compares:
@@ -24,13 +25,10 @@ The screen compares:
 
 ## screen creteria
 - high annual yield dividend
-- steady dividend growth
-- solid FR performance
-- below market pricing
-* price/divident cent compare to market average
-* growth rate compare to market average
-
-## raw output
-name,ticker,exchange, dividend/last year,payout interval,surprise payout, surprise amount sum,price BOY, price EOY,capital gain/last year,average price/sum dividend,current price/sum dividend
-
+- reasonable market cap
+//- steady dividend growth
+- solid FR performance/R/E/A
+//- below market pricing
+//* price/dividend cent compare to market average
+//* growth rate compare to market average
 
